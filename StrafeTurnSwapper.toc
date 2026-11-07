@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: StrafeTurnSwapper
+## Notes: Toggle swap of Turn Left/Right with Strafe Left/Right. /sts
+## Author: Forever
+## Version: 1.0.0
+## SavedVariablesPerCharacter: StrafeTurnSwapperDB
+
+StrafeTurnSwapper.lua
